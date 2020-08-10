@@ -8,4 +8,5 @@
 - push
 - 3rd party API randomuser.me
 ## Take a look
-[Imgur](https://i.imgur.com/AeShwI1.png)
+
+<img src="https://i.imgur.com/AeShwI1.png" width="800">
